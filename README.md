@@ -1,2 +1,2 @@
 # kadai
-what i made for collage kadai
+for university assignments
